@@ -56,7 +56,7 @@ Niewiadomska&#38;Maj 2et - vocal, piano jazz duet<br>
 Fusion Band - vocal, piano, bas, drums band playing fusion music<br>
 
 <h2>Associations:</h2>
-Vocalist Association - MIX - co-founder, member, helping with organization and planning of workshops for vocalists
+2013-2014 - Vocalist Association - MIX - co-founder, member, helping with organization and planning of workshops for vocalists
 
 <h2>Concerts:</h2>
 2013 - Solo vocalist at photo and painting vernissage, Gliwice, 19.10.2013 <br>
@@ -72,21 +72,22 @@ Vocalist Association - MIX - co-founder, member, helping with organization and p
 
 <h2>Warsztaty:</h2>
 
-2014 - Warsztaty Wokalne Anny Serafinskiej - Letnie Gorace Ulice - Teat Syrena, 07/08.2014<br>
-2014 - Jaworki Warsztaty Muzyczne<br>
-2014 - Miedzynarodowe Warsztaty Wokalne - International IVTOM - Voice Teachers of Mix, Gliwice, (24-25.01.2014)<br>
-2014 - Warsztaty Muzyczne Jazz w Ruinach, w ramach 10 edycji festiwalu Jazz w Ruinach,<br> 
-2013 - Participation and co-organization of International Workshops of MIX Singing (modern commercial singing technique) with MIX Associations, Gliwice (24/25.01.2013)<br>
-2012 - 42. Miedzynarodowe Warsztaty Jazzowe, Pulawy, 5-15.07.2012 <br>
-2012 - Ogolnopolskie Warsztaty Wokalne - Miedzynarodowe Stowarzyszenie Sztuki Wokalnej Natural Voice Perfection, Gliwice, (28-30.01.2012)<br>
-2011 - Warsztaty Imporowizacji Wokalnych - Vocal Improvisation Techniques - Krakow, 11.2011<br>
-2011 - Ogolnopolskie Warsztaty Wokalne - Miedzynarodowe Stowarzyszenie Sztuki Wokalnej Natural Voice Perfection, Gliwice, (8-10.04.2011)<br>
-Chodziez<br>
-2008 - Jaworki Warsztaty Muzyczne<br>
-2008 - IX Miedzynarodowy Kurs Wakacyjny Big-Bandow PSM I i II st. im W. Lutoslawskiego, w Nysie (13-19.07.2008)<br>
-2007 - Szlifiernia Warsztaty Aktorskie, 26.02. - 31.05.2007<br>
+2014 - Vocal Workshops of Anna Serafińska - Letnie Gorące Ulice - Teat Syrena, Warszawa, 07/08.2014<br>
+2014 - Jaworki Music Workshops, voice/piano, Jaworki, 07.2014<br>
+2014 - International Vocal Workshops - IVTOM - Voice Teachers of Mix, Gliwice, 24-25.01.2014<br>
+2014 - Jazz Music Workshops, 10tj Festiwal Jazz w Ruinach, piano, Gliwice<br> 
+2013 - Participation and co-organization of International Workshops of MIX Singing (modern commercial singing technique) with MIX Associations, Gliwice, 24/25.01.2013<br>
+2012 - 42nd International Jazz Workshops, Puławy, 5-15.07.2012 <br>
+2012 - National Vocal Workshops, International Association of Singing Art - Natural Voice Perfection, Gliwice, 28-30.01.2012<br>
+2011 - Workshops of Vocal Improvisation with Bob Stoloff, Kraków, 11.2011<br>
+2011 - National Vocal Wokrhops - Miedzynarodowe Stowarzyszenie Sztuki Wokalnej Natural Voice Perfection, Gliwice, 8-10.04.2011<br>
+Chodziez Music Workshops<br>
+2008 - Jaworki Music Workshops<br>
+2008 - IX International Summer Course of Big-Bands, PSM I i II st. im W. Lutoslawskiego, Nysa, 13-19.07.2008<br>
+2007 - "Szlifiernia" Acting Workshops, 26.02. - 31.05.2007<br>
 
-
+<br>
+<br>
 
 
 

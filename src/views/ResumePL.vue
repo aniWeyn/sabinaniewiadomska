@@ -64,6 +64,7 @@ Stowarzyszenie Wokalistow Mix
 11.02.2013	Concert	Solo vocalist at event promoting health among youghts with cooperation with local tv – TVS, Gliwice <br>
 23.03.2013	Concert	Solo vocalist at concert promoting talented teenagers from Silesian region, Gliwice<br>
 2007 - Szlifiernia Warsztaty Aktorskie, koncert, 31.05.2007<br>
+
 <h2>Edukacja</h2>
 2003-2005 - Szkola Myzyczna Yamaha<br>
 2005-2007 - Panstwowa Szkola Muzyczna Ist, im L. Rozyckiego w Gliwicach - pianino<br>

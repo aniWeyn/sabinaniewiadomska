@@ -2,7 +2,7 @@
   <div class="about">
     <h2>Competitions in category of solo vocalist</h2>
 2019 - II prize - "Gjøvik has talent", Gjøvik, 02.2019<br>
-2012 - III prize - VI National Festival of Song "Niezapominajka", Rydułtowy, 14.03.2014<br>
+2014 - III prize - VI National Festival of Song "Niezapominajka", Rydułtowy, 14.03.2014<br>
 2012 - III prize - V National Festival of French Songs, Brzeg, 21.10.2012<br>
 2011 - Young Talents Gale "Zwiastuny 2011" for artistic achivements, 15.06.2011<br>
 2011 - II prize, XIII National Competitions of English Songs, Nowy Targ, 23.02.2011<br>
@@ -45,13 +45,59 @@
 2005 - wyroznienie - II Interschool Competition of Religious Song, Gliwice, 27.04.2005<br>
 2003 - wyroznienie I st. - Festiwal of Yamaha Music School, Gliwice, 26.10.2003<br>
 
-        <h2>Edukacja</h2>
+<h2>Theater</h2>
+2014 - "A" Teather - Spectacle "Tobiasz", fill in for one of main singing roles - Sarah <br>
+2007 - Music Theater of Gliwice Junior - Music Spectacle for Children "Pieskie Życie"<br>
+2006 - Music Theater of Gliwice Junior - Music Spectacle for Children "Szmaragdowy Szlak" - 22.05.2006<br>
+2005-2007 - Music Theater of Gliwice Junior<br>
+
+<h2>Projects:</h2>
+Niewiadomska&#38;Maj 2et - vocal, piano jazz duet<br>
+Fusion Band - vocal, piano, bas, drums band playing fusion music<br>
+
+<h2>Associations:</h2>
+Vocalist Association - MIX - co-founder, member, helping with organization and planning of workshops for vocalists
+
+<h2>Concerts:</h2>
+2013 - Solo vocalist at photo and painting vernissage, Gliwice, 19.10.2013 <br>
+2013 - Solo vocalist at event promoting health among youghts with cooperation with local tv – TVS, Gliwice, 11.02.2013 <br>
+2013 - Solo vocalist at concert promoting talented teenagers from Silesian region, Gliwice, 23.03.2013<br>
+2007 - Szlifiernia Acting Workshops, koncert, 31.05.2007<br>
+
+<h2>Edukacja</h2>
 2009-2014 - private singing classes<br>
 2007-2009 - State Music School 2nd degree, the L. Rozycki, in Gliwice - opera vocal department<br>
 2005-2007 - State Music School 1st degree, the L. Rozycki, in Gliwice - instrumental department: piano<br>
 2003-2005 - Yamaha Music School - keyboard/vocal-instrumental band, Gliwice<br>
 
-    February 2019	Competition - solo vocalist	2nd place in student talent compentition in Gjøvik <br>
+<h2>Warsztaty:</h2>
+
+2014 - Warsztaty Wokalne Anny Serafinskiej - Letnie Gorace Ulice - Teat Syrena, 07/08.2014<br>
+2014 - Jaworki Warsztaty Muzyczne<br>
+2014 - Miedzynarodowe Warsztaty Wokalne - International IVTOM - Voice Teachers of Mix, Gliwice, (24-25.01.2014)<br>
+2014 - Warsztaty Muzyczne Jazz w Ruinach, w ramach 10 edycji festiwalu Jazz w Ruinach,<br> 
+2013 - Participation and co-organization of International Workshops of MIX Singing (modern commercial singing technique) with MIX Associations, Gliwice (24/25.01.2013)<br>
+2012 - 42. Miedzynarodowe Warsztaty Jazzowe, Pulawy, 5-15.07.2012 <br>
+2012 - Ogolnopolskie Warsztaty Wokalne - Miedzynarodowe Stowarzyszenie Sztuki Wokalnej Natural Voice Perfection, Gliwice, (28-30.01.2012)<br>
+2011 - Warsztaty Imporowizacji Wokalnych - Vocal Improvisation Techniques - Krakow, 11.2011<br>
+2011 - Ogolnopolskie Warsztaty Wokalne - Miedzynarodowe Stowarzyszenie Sztuki Wokalnej Natural Voice Perfection, Gliwice, (8-10.04.2011)<br>
+Chodziez<br>
+2008 - Jaworki Warsztaty Muzyczne<br>
+2008 - IX Miedzynarodowy Kurs Wakacyjny Big-Bandow PSM I i II st. im W. Lutoslawskiego, w Nysie (13-19.07.2008)<br>
+2007 - Szlifiernia Warsztaty Aktorskie, 26.02. - 31.05.2007<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 August – December 2018	Choir	 I had a chance to participate in rehersals of Gjøvik Choir <br>
 April 2014	Theater – actress/solo vocalist	Musical “Tobiasz”, one of main character (singing role) <br>
 January – June 2014	Learning 	I won place as a one of seven students for sponsored classes of singing with MIX technique (SLS) <br>

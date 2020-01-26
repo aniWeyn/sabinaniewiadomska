@@ -71,7 +71,7 @@ Fusion Band - vocal, piano, bas, drums band playing fusion music<br>
 2003-2005 - Yamaha Music School - keyboard/vocal-instrumental band, Gliwice<br>
 
 <h2>Workshops:</h2>
-
+2019 - Jazz Song Workshops with Nina Pedersen, Oslo, 25.01.2019
 2014 - Vocal Workshops of Anna Serafińska - Letnie Gorące Ulice - Teat Syrena, Warszawa, 07/08.2014<br>
 2014 - Jaworki Music Workshops, voice/piano, Jaworki, 07.2014<br>
 2014 - International Vocal Workshops - IVTOM - Voice Teachers of Mix, Gliwice, 24-25.01.2014<br>

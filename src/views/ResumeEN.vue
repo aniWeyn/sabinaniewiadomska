@@ -9,7 +9,7 @@
 2011 - I prize, Competition "Odkrywamy Talent", Gliwice, 15.02.2011<br>
 2010 - Young Talents Gale "Zwiastuny 2010" for artistic achivements, 10.06.2010 <br>
 2010 - silver minim, XIX International Festival of Song and Dance "Majowa Nutka", Częstochowa, 16.05.2010<br>
-2010 - wyroznienie, National Festival of Foregin Language Songs, Opatów, 24.04.2010, <br>
+2010 - acknowledgment, National Festival of Foregin Language Songs, Opatów, 24.04.2010, <br>
 2010 - II prize, 2nd Edition of Competition of Singing Poetry, Gliwice<br>
 2010 - I prize, I Regional Competition of Talents "Złota Struna", Chorzów<br>
 2010 - I prize, 2nd Gliwices' Music Confrontation, Gliwice, 08.02.2010 <br>
@@ -42,8 +42,8 @@
 2006 - I prize, II Regional Competition of Youth Song "Droga do gwiazd przez gimnazjum", Knurów, 06.04.2006<br>
 2005 - I prize - Festiwal of Yamaha Music School, duet, Gliwice, 11.12.2005<br>
 2005 - III prize - Festiwal of Yamaha Music School, Gliwice, 11.12.2005<br>
-2005 - wyroznienie - II Interschool Competition of Religious Song, Gliwice, 27.04.2005<br>
-2003 - wyroznienie I st. - Festiwal of Yamaha Music School, Gliwice, 26.10.2003<br>
+2005 - acknowledgment - II Interschool Competition of Religious Song, Gliwice, 27.04.2005<br>
+2003 - acknowledgment I st. - Festiwal of Yamaha Music School, Gliwice, 26.10.2003<br>
 
 <h2>Theater:</h2>
 2014 - "A" Teather - Spectacle "Tobiasz", fill in for one of main singing roles - Sarah <br>

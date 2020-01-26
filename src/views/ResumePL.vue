@@ -16,13 +16,15 @@ Chodziez<br>
 2011 - Warsztaty Imporowizacji Wokalnych - Vocal Improvisation Techniques - Krakow, 11.2011<br>
 2012 - Ogolnopolskie Warsztaty Wokalne - Miedzynarodowe Stowarzyszenie Sztuki Wokalnej Natural Voice Perfection, Gliwice, (28-30.01.2012)<br>
 2012 - 42. Miedzynarodowe Warsztaty Jazzowe, Pulawy, 5-15.07.2012 <br>
+2013 - Participation and co-organization of International Workshops of MIX Singing (modern commercial singing technique) with MIX Associations, Gliwice (24/25.01.2013)<br>
 2014 - Warsztaty Muzyczne Jazz w Ruinach, w ramach 10 edycji festiwalu Jazz w Ruinach,<br> 
 2014 - Miedzynarodowe Warsztaty Wokalne - International IVTOM - Voice Teachers of Mix, Gliwice, (24-25.01.2014)<br>
 2014 - Jaworki Warsztaty Muzyczne<br>
 2014 - Warsztaty Wokalne Anny Serafinskiej - Letnie Gorace Ulice - Teat Syrena, 07/08.2014<br>
-<h2>Gliwicki Teatr Muzyczny - przedstawienia</h2>
+<h2>Teatr</h2>
 2006 - Gliwicki Teat Muzyczny Junior - udzial w przedstawieniu "Szmaragdowy Szlak" - 22.05.2006<br>
 2007 - Gliwicki Teat Muzyczny Junior - udzial w przedstawieniu ""<br>
+2014 - Teatr A - "Tobiasz", zastępstwo, rola śpiewająca
 <h2>Konkursy</h2>
 2003 - wyroznienie I st. - II Festiwal Szkoly Muzycznej Yamaha w Gliwicach, solo,  (26.10.2003)<br>
 2005 - wyroznienie - II Miedzyszkolny Konkurs Piosenki Religijnej, solo,  (27.04.2005)<br>
@@ -68,7 +70,11 @@ Chodziez<br>
 2011 - Gliwicka Gala Mlodych Talentow Zwiastuny 2011 (15.06.2011), dyplom i statuetka za osiagniecia w dziedzinie artystycznej<br>
 2012 - III miejsce - V Ogolnopolski Festiwal Piosenki Francuskiej, Brzeg, 21.10.2012<br>
 2012 - III miejsce - VI Festiwal Piosenki Niezapominajka, Rydultowy, 14.03.2014<br>
-
+2019 - II miejsce - "Gjøvik has talent", Gjøvik, 02.2019
+<h2>Koncerty:</h2>
+19.10.2013	Concert	Solo vocalist at photo and painting vernissage, Gliwice <br>
+11.02.2013	Concert	Solo vocalist at event promoting health among youghts with cooperation with local tv – TVS, Gliwice <br>
+23.03.2013	Concert	Solo vocalist at concert promoting talented teenagers from Silesian region, Gliwice<br>
   </div>
 </template>
 

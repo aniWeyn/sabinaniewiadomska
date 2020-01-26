@@ -56,7 +56,7 @@ Niewiadomska&#38;Maj 2et - vocal, piano jazz duet<br>
 Fusion Band - vocal, piano, bas, drums band playing fusion music<br>
 
 <h2>Associations:</h2>
-2013-2014 - Vocalist Association - MIX - co-founder, member, helping with organization and planning of workshops for vocalists
+2012-2014 - Vocalist Association - MIX - co-founder, member, helping with organization and planning of workshops for vocalists
 
 <h2>Concerts:</h2>
 2013 - Solo vocalist at photo and painting vernissage, Gliwice, 19.10.2013 <br>
@@ -64,13 +64,13 @@ Fusion Band - vocal, piano, bas, drums band playing fusion music<br>
 2013 - Solo vocalist at concert promoting talented teenagers from Silesian region, Gliwice, 23.03.2013<br>
 2007 - Szlifiernia Acting Workshops, koncert, 31.05.2007<br>
 
-<h2>Edukacja</h2>
+<h2>Education:</h2>
 2009-2014 - private singing classes<br>
 2007-2009 - State Music School 2nd degree, the L. Rozycki, in Gliwice - opera vocal department<br>
 2005-2007 - State Music School 1st degree, the L. Rozycki, in Gliwice - instrumental department: piano<br>
 2003-2005 - Yamaha Music School - keyboard/vocal-instrumental band, Gliwice<br>
 
-<h2>Warsztaty:</h2>
+<h2>Workshops:</h2>
 
 2014 - Vocal Workshops of Anna Serafińska - Letnie Gorące Ulice - Teat Syrena, Warszawa, 07/08.2014<br>
 2014 - Jaworki Music Workshops, voice/piano, Jaworki, 07.2014<br>
@@ -85,35 +85,6 @@ Chodziez Music Workshops<br>
 2008 - Jaworki Music Workshops<br>
 2008 - IX International Summer Course of Big-Bands, PSM I i II st. im W. Lutoslawskiego, Nysa, 13-19.07.2008<br>
 2007 - "Szlifiernia" Acting Workshops, 26.02. - 31.05.2007<br>
-
-<br>
-<br>
-
-
-
-
-
-
-
-
-
-
-
-August – December 2018	Choir	 I had a chance to participate in rehersals of Gjøvik Choir <br>
-April 2014	Theater – actress/solo vocalist	Musical “Tobiasz”, one of main character (singing role) <br>
-January – June 2014	Learning 	I won place as a one of seven students for sponsored classes of singing with MIX technique (SLS) <br>
-2012 - 2014	Vocal Association “MIX”	<br>
-14.03.2014	Competition - solo vocalist	3rd places in VI Festival of Songs “Niezapominajka”, Rydultowy <br>
-15.11.2013	Jazz Festival - volunteer	Volunteer at Palm Jazz Festiwal, Gliwice <br>
-19.10.2013	Concert	Solo vocalist at photo and painting vernissage, Gliwice <br>
-11.02.2013	Concert	Solo vocalist at event promoting health among youghts with cooperation with local tv – TVS, Gliwice <br>
-23.03.2013	Concert	Solo vocalist at concert promoting talented teenagers from Silesian region, Gliwice<br>
-24/25.01.2013	Workshops – participation and organization	Participation and co-organization of International Workshops of MIX Singing (modern commercial singing technique) with MIX Associations, Gliwice<br>
-2007	Competition - solo vocalist	1st place in Regional Festival of Scout and Turistic Songs “..Lec, piesni lec, niesiona w dal”<br>
-2007	Competition - solo vocalist	2nd place in V Regional Competition of Song “Droga do gwiazd przez gimnazjum”, Knurow<br>
-2006	Competition - solo vocalist	3rd place in IV Regional Competition of Song “Droga do gwiazd przez gimnazjum”, Knurow<br>
-2005	Competition - solo vocalist	1st place in III Regional Competition of Song “Droga do gwiazd przez gimnazjum”, Knurow <br>
-2005	Competition – instrumental and vocal band	2nd place in III Regional Competition of Song “Droga do gwiazd przez gimnazjum”, Knurow<br>
 
   </div>
 </template>

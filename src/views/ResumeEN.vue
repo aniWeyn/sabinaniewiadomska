@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h2>Competitions in category of solo vocalist</h2>
+    <h2>Competitions in category of solo vocalist:</h2>
 2019 - II prize - "Gjøvik has talent", Gjøvik, 02.2019<br>
 2014 - III prize - VI National Festival of Song "Niezapominajka", Rydułtowy, 14.03.2014<br>
 2012 - III prize - V National Festival of French Songs, Brzeg, 21.10.2012<br>
@@ -39,13 +39,13 @@
 2006 - I prize, III Regional Competition of Youth Song „Droga do gwiazd przez gimnazjum", (13.10.2006)<br>
 2006 - Young Talents Gale "Zwiastuny 2006" for artistic achivements, 07.06.2006  <br>
 2006 - I prize, VIII Regional Artictic Presentation of Children and Youth „Wiosenne granie i Spiewanie" w kategorii — solisci (21.03.2006)<br>
-2006 - I prize w II Regional Competition of Youth Song "Droga do gwiazd przez gimnazjum", Knurów, 06.04.2006<br>
+2006 - I prize, II Regional Competition of Youth Song "Droga do gwiazd przez gimnazjum", Knurów, 06.04.2006<br>
 2005 - I prize - Festiwal of Yamaha Music School, duet, Gliwice, 11.12.2005<br>
 2005 - III prize - Festiwal of Yamaha Music School, Gliwice, 11.12.2005<br>
 2005 - wyroznienie - II Interschool Competition of Religious Song, Gliwice, 27.04.2005<br>
 2003 - wyroznienie I st. - Festiwal of Yamaha Music School, Gliwice, 26.10.2003<br>
 
-<h2>Theater</h2>
+<h2>Theater:</h2>
 2014 - "A" Teather - Spectacle "Tobiasz", fill in for one of main singing roles - Sarah <br>
 2007 - Music Theater of Gliwice Junior - Music Spectacle for Children "Pieskie Życie"<br>
 2006 - Music Theater of Gliwice Junior - Music Spectacle for Children "Szmaragdowy Szlak" - 22.05.2006<br>

@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h2>Competitions in category of solo vocalist:</h2>
+    <h2>Competitions in the solo vocalist category:</h2>
 2019 - II prize - "Gjøvik has talent", Gjøvik, 02.2019<br>
 2014 - III prize - VI National Festival of Song "Niezapominajka", Rydułtowy, 14.03.2014<br>
 2012 - III prize - V National Festival of French Songs, Brzeg, 21.10.2012<br>

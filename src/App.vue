@@ -1,10 +1,5 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <h1>Sabina Niewiadomska - music resume
-      <router-link to="/resume-pl">polish</router-link> - 
-      <router-link to="/resume-en">english</router-link></h1>
-    </div>
     <router-view />
   </div>
 </template>

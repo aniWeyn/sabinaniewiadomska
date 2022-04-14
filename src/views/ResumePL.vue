@@ -1,5 +1,10 @@
 <template>
   <div class="about">
+        <div id="nav">
+      <h1>Sabina Niewiadomska - music resume
+      <router-link to="/resume-pl">polish</router-link> - 
+      <router-link to="/resume-en">english</router-link></h1>
+    </div>
 <h2>Konkursy</h2>
 2019 - II miejsce - "Gjøvik has talent", Gjøvik, 02.2019<br>
 2012 - III miejsce - VI Festiwal Piosenki Niezapominajka, Rydultowy, 14.03.2014<br>

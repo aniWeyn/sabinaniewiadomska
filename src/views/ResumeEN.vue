@@ -1,5 +1,10 @@
 <template>
   <div class="about">
+        <div id="nav">
+      <h1>Sabina Niewiadomska - music resume
+      <router-link to="/resume-pl">polish</router-link> - 
+      <router-link to="/resume-en">english</router-link></h1>
+    </div>
     <h2>Competitions in the solo vocalist category:</h2>
 2019 - II prize - "Gjøvik has talent", Gjøvik, 02.2019<br>
 2014 - III prize - VI National Festival of Song "Niezapominajka", Rydułtowy, 14.03.2014<br>

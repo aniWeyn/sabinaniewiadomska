@@ -6,66 +6,19 @@
     <div class="column--right">
         <span class="surname header">Niewiadomska</span>
     </div>
-    <section class="mp3">
-        <figure>
-    <audio
-        controls
-        src="../assets/media/Kaziu2.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-     <figcaption>"Kaziu, zakochaj się" <br /> lyrics: Jeremi Przybora, music: Jerzy Wasowski</figcaption>
-</figure>
-    </section>
 
         <div class="teddy">
-            <iframe loading="lazy" width="auto" height="auto" src="https://www.youtube-nocookie.com/embed/OF2U17HNOzs?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+            <iframe loading="lazy" width="660" height="300" src="https://www.youtube-nocookie.com/embed/OF2U17HNOzs?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
     <div class="miloscPrawdziwa">
-        <iframe loading="lazy" width="auto" height="auto" 
-        src="https://www.youtube-nocookie.com/embed/tB7jlpqnuk4?controls=0" 
+        <iframe loading="lazy" width="660" height="300" 
+        src="https://www.youtube-nocookie.com/embed/tB7jlpqnuk4?controls=1" 
         title="YouTube video player" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     <div class="adele">
-        <iframe loading="lazy" width="auto" height="auto" src="https://www.youtube-nocookie.com/embed/05K2N2094-M?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe loading="lazy" width="531" height="311" src="https://www.youtube-nocookie.com/embed/05K2N2094-M?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
-        <div class="dworzec">
-        <iframe loading="lazy" width="auto" height="auto" src="https://www.youtube-nocookie.com/embed/RpYTcJsHPJI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-
-    <div class="swieta">
-        <iframe loading="lazy" width="auto" height="auto" src="https://www.youtube.com/embed/_U3vqLnBrk0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-    <div class="greaterlove">
-        <iframe loading="lazy" width="auto" height="auto" src="https://www.youtube.com/embed/n8ipPPd5J_E?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-     <div class="malowiejskikrajobraz">
-<iframe loading="lazy" width="auto" height="auto" src="https://www.youtube.com/embed/TPDbg3XpP8o?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- </div>
-  <div class="cichywielbiciel">
-    <iframe loading="lazy" width="auto" height="auto" src="https://www.youtube.com/embed/cOfZSB5qEA0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-
- <div class="cichywielbiciel">
-    <iframe loading="lazy" width="auto" height="auto" src="https://www.youtube.com/embed/cOfZSB5qEA0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-
- <div class="jessiej">
-<iframe loading="lazy" width="auto" height="auto" src="https://www.youtube.com/embed/dxWaTBJ7fdI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- </div>
- <div class="deszcz">
-<iframe loading="lazy" width="auto" height="auto" src="https://www.youtube.com/embed/WvFsZurWw0w?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- </div>
- <div class="stop">
-<iframe loading="lazy" width="auto" height="auto" src="https://www.youtube.com/embed/11ZyN-kIF1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- </div>
-    <div class="tancbuda">
-        <iframe loading="lazy" width="auto" height="auto" src="https://www.youtube.com/embed/9D6_nwMbJEU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
- <div class="timeaftertime">
-<iframe loading="lazy" width="auto" height="auto" src="https://www.youtube.com/embed/Si0crQBsBos?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
     </div>
 </template>
 
@@ -104,80 +57,24 @@ export default {
 }
 
 .mp3{
-    grid-column: 2/4;
+    grid-column: 2;
   grid-row: 2;
 }
 
 .teddy{
-  grid-column: 2;
-  grid-row: 4;
+  grid-column: 3 / 5;
+  grid-row: 2 / 4;
 }
 
 
 .miloscPrawdziwa{
-  grid-column: 3;
-  grid-row: 5;
+  grid-column: 1 / 3;
+  grid-row: 5 / 7;
 }
 
 .adele{
-  grid-column: 4;
-  grid-row: 6;
-}
-
-.dworzec{
-  grid-column: 2;
-  grid-row: 7;
-}
-
-.swieta{
-  grid-column: 2;
-  grid-row: 7;
-}
-
-.greaterlove{
-  grid-column: 3;
-  grid-row: 7;
-}
-
-.pukpukpuk{
-  grid-column: 2;
-  grid-row: 8;
-}
-
-.cichywielbiciel{
-  grid-column: 3;
-  grid-row: 8;
-}
-
-.jessiej{
-  grid-column: 4;
-  grid-row: 8;
-}
-
-.malowiejskikrajobraz{
-  grid-column: 2;
-  grid-row: 9;
-}
-
-.deszcz{
-  grid-column: 3;
-  grid-row: 10;
-}
-
-
-.stop{
-  grid-column: 4;
-  grid-row: 11;
-}
-
-.tancbuda{
-  grid-column: 2;
-  grid-row: 12;
-}
-
-.timeaftertime{
-  grid-column: 4;
-  grid-row: 12;
+  grid-column: 4/6;
+  grid-row: 6/8;
 }
 
 .header{

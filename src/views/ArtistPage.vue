@@ -7,7 +7,7 @@
     <div class="row--2">
         <figure>
           
-          <audio controls src="../assets/media/leaves-256.mp3">
+          <audio controls controlsList="nodownload" src="../assets/media/leaves-256.mp3">
             Your browser does not support the <code>audio</code> element.
           </audio>
            <figcaption>Autumn Leaves</figcaption>
@@ -16,7 +16,7 @@
     </div>
     <div class="row--2"> 
         <figure>
-          <audio controls  src="../assets/media/rosemary-256.mp3">
+          <audio controls controlsList="nodownload" src="../assets/media/rosemary-256.mp3">
             Your browser does not support the <code>audio</code> element.
           </audio>
           <figcaption>Rosemary Baby</figcaption>
@@ -38,6 +38,26 @@ export default {
 
 .grid {
   display: grid;
+  grid-template-columns:  1fr;
+  gap: 5px;
+  grid-auto-rows: minmax(100px, auto);
+}
+
+.column--right{
+  grid-column: 1;
+  grid-row: 1;
+}
+
+
+.header{
+  font-size: 3rem;  
+  color: rgb(66, 58, 58);
+}
+
+@media (min-width: 1032px) {
+
+.grid {
+  display: grid;
   grid-template-columns:  0.5fr 1fr 1fr 1fr 0.5fr;
   gap: 5px;
   grid-auto-rows: minmax(100px, auto);
@@ -54,10 +74,6 @@ export default {
   grid-row: 2;
 }
 
-.row--4{
-  grid-row: 4;
-}
-
 .header{
   font-size: 6rem;  
   color: rgb(66, 58, 58);
@@ -65,6 +81,7 @@ export default {
 
 .surname.header{
     writing-mode: vertical-lr;
+}
 }
 
 audio::-webkit-media-controls-panel {

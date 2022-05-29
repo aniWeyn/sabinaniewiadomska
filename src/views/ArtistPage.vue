@@ -1,24 +1,28 @@
 <template>
   <div class="grid">
-      <div class="row--top">
-    <span class="name header">Sabina</span>
-    </div>
     <div class="column--right">
+        <span class="surname header">Sabina</span>
         <span class="surname header">Niewiadomska</span>
     </div>
-
-        <div class="teddy">
-            <iframe loading="lazy" width="660" height="300" src="https://www.youtube-nocookie.com/embed/OF2U17HNOzs?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-    <div class="miloscPrawdziwa">
-        <iframe loading="lazy" width="660" height="300" 
-        src="https://www.youtube-nocookie.com/embed/tB7jlpqnuk4?controls=1" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-    <div class="adele">
-        <iframe loading="lazy" width="531" height="311" src="https://www.youtube-nocookie.com/embed/05K2N2094-M?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
+    <div class="row--2">
+        <figure>
+          
+          <audio controls src="../assets/media/leaves-256.mp3">
+            Your browser does not support the <code>audio</code> element.
+          </audio>
+           <figcaption>Autumn Leaves</figcaption>
+           <figcaption>piano: <a target="_blank" href="https://www.kjetiljerve.com/">Kjetil Jerve</a></figcaption>
+        </figure>
+    </div>
+    <div class="row--2"> 
+        <figure>
+          <audio controls  src="../assets/media/rosemary-256.mp3">
+            Your browser does not support the <code>audio</code> element.
+          </audio>
+          <figcaption>Rosemary Baby</figcaption>
+          <figcaption>piano: <a target="_blank" href="https://www.kjetiljerve.com/">Kjetil Jerve</a></figcaption>
+        </figure>
+    </div>
     </div>
 </template>
 
@@ -39,11 +43,6 @@ export default {
   grid-auto-rows: minmax(100px, auto);
 }
 
-.row--top{
-  grid-column: 1 / 5;
-  grid-row: 1;
-}
-
 .column--right{
   grid-column: 5;
   grid-row: 1 / 5;
@@ -51,30 +50,12 @@ export default {
   justify-content: end;
 }
 
-.box{
-  display: flex;
-  justify-content: center;
-}
-
-.mp3{
-    grid-column: 2;
+.row--2{
   grid-row: 2;
 }
 
-.teddy{
-  grid-column: 3 / 5;
-  grid-row: 2 / 4;
-}
-
-
-.miloscPrawdziwa{
-  grid-column: 1 / 3;
-  grid-row: 5 / 7;
-}
-
-.adele{
-  grid-column: 4/6;
-  grid-row: 6/8;
+.row--4{
+  grid-row: 4;
 }
 
 .header{
@@ -86,6 +67,11 @@ export default {
     writing-mode: vertical-lr;
 }
 
+audio::-webkit-media-controls-panel {
+  background-color: white;
+}
 
-
+figcaption{
+    padding-left: 20px;
+}
 </style>

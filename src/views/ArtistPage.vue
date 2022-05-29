@@ -7,7 +7,7 @@
     <div class="row--2">
         <figure>
           
-          <audio controls controlsList="nodownload" src="../assets/media/leaves-256.mp3">
+          <audio controls controlsList="nodownload noplaybackrate" src="../assets/media/leaves-256.mp3">
             Your browser does not support the <code>audio</code> element.
           </audio>
            <figcaption>Autumn Leaves</figcaption>
@@ -16,7 +16,7 @@
     </div>
     <div class="row--2"> 
         <figure>
-          <audio controls controlsList="nodownload" src="../assets/media/rosemary-256.mp3">
+          <audio controls controlsList="nodownload noplaybackrate" src="../assets/media/rosemary-256.mp3">
             Your browser does not support the <code>audio</code> element.
           </audio>
           <figcaption>Rosemary Baby</figcaption>

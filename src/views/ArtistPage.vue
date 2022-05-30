@@ -1,7 +1,7 @@
 <template>
   <div class="grid">
     <div class="column--right">
-        <span class="surname header">Sabina</span>
+        <span class="surname header name">Sabina</span>
         <span class="surname header">Niewiadomska</span>
     </div>
     <div class="row--2">
@@ -52,6 +52,10 @@ export default {
 .header{
   font-size: 3rem;  
   color: rgb(66, 58, 58);
+}
+
+.name{
+display: block;
 }
 
 @media (min-width: 1032px) {
